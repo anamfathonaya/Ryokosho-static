@@ -63,14 +63,13 @@ window.onscroll = function () {
   }
 };
 
-// Skrip Scroll
-menubar.onscroll = function () {
-  const menuBar = document.querySelector("#nav-menu");
-  const navOpen = menuBar.offsetTop;
+hamburger.onscroll = function () {
+  const burger = document.querySelector("#nav-menu");
+  const menuOpen = burger.offsetTop;
 
-  if (menubar.scrollY > navOpen) {
-    menuBar.classList.add("navbar-opened");
+  if (hamburger.scrollY > menuOpen) {
+    burger.classList.toggle("menu-opened");
   } else {
-    menuBar.classList.remove("navbar-opened");
+    burger.classList.remove("menu-opened");
   }
 };
