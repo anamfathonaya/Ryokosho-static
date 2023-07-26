@@ -1,0 +1,11 @@
+Your selected colors:
+
+    Text: #fafafa (RGB: 250, 250, 250)
+    Background: #14261F (RGB: 20, 38, 31)
+    Primary: #A61414 (RGB: 166, 20, 20)
+    Secondary: #59D9C1 (RGB: 89, 217, 193)
+    Accent: #F2921D (RGB: 242, 146, 29)
+
+Realtime Colors link for selected colors: https://realtimecolors.com/?colors=fafafa-14261F-A61414-59D9C1-F2921D
+
+Thanks for using RealtimeColors.com!
